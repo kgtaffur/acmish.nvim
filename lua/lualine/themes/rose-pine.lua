@@ -2,12 +2,12 @@ local p = require("rose-pine.palette")
 
 return {
 	normal = {
-		a = { bg = p.rose, fg = p.base, gui = "bold" },
+		a = { bg = "#8888cc", fg = p.base, gui = "bold" },
 		b = { bg = "#eaffff", fg = p.rose },
 		c = { bg = "#eaffff", fg = p.text },
 	},
 	insert = {
-		a = { bg = p.foam, fg = p.base, gui = "bold" },
+		a = { bg = "#000099", fg = p.base, gui = "bold" },
 		b = { bg = "#eaffff", fg = p.foam },
 		c = { bg = "#eaffff", fg = p.text },
 	},
