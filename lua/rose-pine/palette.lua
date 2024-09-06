@@ -5,7 +5,7 @@ local variants = {
 		base = "#ffffea",
 		surface = "#ffffea",
 		overlay = "#ffffea",
-		// line numbers
+		-- line numbers
 		muted = "#000000",
 		subtle = "#000000",
 		text = "#000000",
