@@ -1,4 +1,4 @@
-local options = require("rose-pine.config").options
+local options = require("acmish.config").options
 local variants = {
 	main = {
 		_nc = "#ffffea",
