@@ -4,31 +4,31 @@ return {
 	normal = {
 		a = { bg = p.rose, fg = p.base, gui = "bold" },
 		b = { bg = "#eaffff", fg = p.rose },
-		c = { bg = p.base, fg = p.text },
+		c = { bg = "#eaffff", fg = p.text },
 	},
 	insert = {
 		a = { bg = p.foam, fg = p.base, gui = "bold" },
 		b = { bg = "#eaffff", fg = p.foam },
-		c = { bg = p.base, fg = p.text },
+		c = { bg = "#eaffff", fg = p.text },
 	},
 	visual = {
 		a = { bg = p.iris, fg = p.base, gui = "bold" },
 		b = { bg = "#eaffff", fg = p.iris },
-		c = { bg = p.base, fg = p.text },
+		c = { bg = "#eaffff", fg = p.text },
 	},
 	replace = {
 		a = { bg = p.pine, fg = p.base, gui = "bold" },
 		b = { bg = "#eaffff", fg = p.pine },
-		c = { bg = p.base, fg = p.text },
+		c = { bg = "#eaffff", fg = p.text },
 	},
 	command = {
 		a = { bg = p.love, fg = p.base, gui = "bold" },
 		b = { bg = "#eaffff", fg = p.love },
-		c = { bg = p.base, fg = p.text },
+		c = { bg = "#eaffff", fg = p.text },
 	},
 	inactive = {
-		a = { bg = p.base, fg = p.muted, gui = "bold" },
+		a = { bg = "#eaffff", fg = p.muted, gui = "bold" },
 		b = { bg = "#eaffff", fg = p.muted },
-		c = { bg = p.base, fg = p.muted },
+		c = { bg = "#eaffff", fg = p.muted },
 	},
 }
